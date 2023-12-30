@@ -1,4 +1,4 @@
-###Data Structures & Algorithms Prep
+Data Structures & Algorithms Prep
 
 These are the accumulated frequent questions/codes practiced via leetcode potd & related data structures preperation sources.
 
@@ -12,11 +12,11 @@ Focus:
 
 -> Attentively learnt concepts like recursion & backtracking, via rigorous practice.
 
--> Worked on learning advanced algorithms : karp-rabin,huffman coding,range query Mo's algo etc.
+-> Worked on learning advanced algorithms : kadanes,sliding window,karp-rabin,huffman coding,range query Mo's algo etc.
 
 -> Fluent in object oriented programming in Java (Generics,Collection framework,Packages and principles(abstraction,encapsulation,polymorphism,inheritance) and other layered concepts) 
 
-Aspiring to inculcate advanced data structures(graphs,dynamic programming and greedy methods) to layer dsa foundation.
+Aspiring to inculcate advanced data structures(graphs, dynamic programming, and greedy methods) to layer dsa foundation.
 
 
 
