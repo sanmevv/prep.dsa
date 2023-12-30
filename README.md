@@ -1,6 +1,6 @@
 ### Data Structures & Algorithms Prep
 
-These are the accumulated frequent questions/codes practiced via leetcode potd & related data structures preperation sources.
+These are the accumulated frequent questions/codes practiced via leetcode potd & from other related data structures preperation sources.
 
 #### Focus:
 
