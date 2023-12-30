@@ -2,7 +2,7 @@
 
 These are the accumulated frequent questions/codes practiced via leetcode potd & related data structures preperation sources.
 
-## Focus:
+#### Focus:
 
 * Strengthened the grasp on the basic data structures: Arrays,Strings,StringBuilders,ArrayList,LinkedList,Stacks & Queues,Trees(binary,avl,segment),Heap,HashSet,HashMap etc; by solving each concept related questions frequently.
 
