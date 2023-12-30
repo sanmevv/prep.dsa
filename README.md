@@ -1,4 +1,4 @@
-###Data Structures & Algorithms Prep
+Data Structures & Algorithms Prep
 
 These are the accumulated frequent questions/codes practiced via leetcode potd & related data structures preperation sources.
 
